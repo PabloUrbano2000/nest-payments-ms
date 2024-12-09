@@ -1,0 +1,9 @@
+Stripe:
+https://dashboard.stripe.com/dashboard
+https://dashboard.stripe.com/test/apikeys
+https://docs.stripe.com/sdks
+https://docs.stripe.com/stripe-cli?install-method=windows
+
+
+HookDeck
+https://dashboard.hookdeck.com/
